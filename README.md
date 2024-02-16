@@ -6,7 +6,7 @@ The project is about
 
 - given a proof sketch of a math problem, fill the gaps to be acceptable by a formal theorem prover
 
-- develop theory and practice dedicated learning methods for these problems, built upon existing methods like large language models
+- develop theory and practice of dedicated learning methods for these problems, built upon existing methods like large language models
 
 - demonstrate the Husky programming language's superiority by showing the algorithms can be developed much faster in Husky
 
